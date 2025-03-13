@@ -31,7 +31,7 @@ st.write(f"El costo total de las planchas es: {costo_total_planchas} pesos")
 
 st.header("Venta de Camisetas")
 camisetas = {
-    "Chica": 50,
+    "Chica": 80,
     "Mediana": 50,
     "Grande": 60,
     "Extra Grande": 65
